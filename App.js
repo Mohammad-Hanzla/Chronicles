@@ -1,15 +1,14 @@
-import { StyleSheet, Text, View } from 'react-native'
+import { View, Text } from 'react-native'
 import React from 'react'
 
 const App = () => {
   return (
     <View>
-      <Text>TREF</Text>
-      <Text>RTGF</Text>
+      <Text>App</Text>
+      <Text>DEV BRANCH</Text>
     </View>
   )
 }
-
 export default App
 
 const styles = StyleSheet.create({})
