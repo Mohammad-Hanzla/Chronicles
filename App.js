@@ -6,6 +6,9 @@ const App = () => {
     <View>
       <Text>App</Text>
       <Text>DEV BRANCH</Text>
+      <Text>DEV BRANCH</Text>
+      <Text>DEV BRANCH</Text>
+      <Text>DEV BRANCH</Text>
     </View>
   )
 }
