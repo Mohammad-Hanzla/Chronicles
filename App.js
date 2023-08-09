@@ -9,5 +9,6 @@ const App = () => {
     </View>
   )
 }
-
 export default App
+
+const styles = StyleSheet.create({})
